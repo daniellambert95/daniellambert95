@@ -1,5 +1,4 @@
-### Hi there 👋
-## I'm Daniel Lambert
+### Hi there, I'm Daniel Lambert 👋
 <small style='font-size:12px;'>Consitency is the key to success!</small>
 
 - 🔭 I’m currently working on multiple projects, albeit, upskilling is the main focus for me right now.
