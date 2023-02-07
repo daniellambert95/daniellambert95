@@ -1,16 +1,18 @@
 ### Hi there 👋
+## I'm Daniel Lambert
+<small style='font-size:12px;'>Consitency is the key to success!</small>
 
-<!--
-**daniellambert95/daniellambert95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on multiple projects, albeit, upskilling is the main focus for me right now.
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about anything.
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I'm fun.
 
-Here are some ideas to get you started:
+<div>
+<a href="https://www.linkedin.com/in/danieljlambert95/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<-!- <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a> -->
+
+</div>
+
